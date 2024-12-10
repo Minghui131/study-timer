@@ -17,6 +17,6 @@ Installation
       1. Clone the repository:
        git clone https://github.com/<your-username>/Study-Timer.git
 cd Study-Timer
-Navigate to the project directory:
+      2. Navigate to the project directory:
 cd Study-Timer
-Make sure Python is installed on your system (recommended: Python 3.8 or higher).
+      3. Make sure Python is installed on your system (recommended: Python 3.8 or higher).
