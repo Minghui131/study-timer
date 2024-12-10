@@ -3,7 +3,8 @@ A python-based study timer with focus and break reminders, designed to help user
 
 Study Timer with Focus and Break Reminders
 
-Description
+Description:
+
 This project is a simple Python-based study timer designed to help users manage their time effectively. It provides customizable study and break intervals, plays sounds at the end of each session, and offers suggestions for short breaks like stretching or deep breathing.
 
 Features
